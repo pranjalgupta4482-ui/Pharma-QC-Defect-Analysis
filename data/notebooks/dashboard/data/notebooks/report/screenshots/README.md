@@ -1,1 +1,1 @@
-
+“The project uses two datasets: a cleaned defect dataset for descriptive analysis and a separate machine learning prediction dataset containing model outputs. Both datasets are integrated in Power BI using a common identifier.”
